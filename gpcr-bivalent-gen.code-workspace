@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "python",
+    "files.associations": {
+      "*.ipynb": "jupyter-notebook"
+    }
+  }
+}
